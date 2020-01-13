@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\memin\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\GITLAB_ARTIWISE\\netcoretest\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\memin\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\GITLAB_ARTIWISE\\netcoretest\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\memin\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\GITLAB_ARTIWISE\\netcoretest\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\memin\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\GITLAB_ARTIWISE\\netcoretest\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\memin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\memin\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "C:\\GITLAB_ARTIWISE\\netcoretest\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
