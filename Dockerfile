@@ -4,6 +4,6 @@ WORKDIR /app
 #      io.k8s.description="container description..." \
 #      io.openshift.expose-services="8080:http"
 COPY WebApplication1/out/ .
-EXPOSE 81
-ENV ASPNETCORE_URLS=http://*:81
+EXPOSE 8080
+ENV ASPNETCORE_URLS=http://*:8080
 ENTRYPOINT [ "dotnet","WebApplication1.dll" ]
